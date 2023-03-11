@@ -1,9 +1,13 @@
 {
-  "name": "proklung/jedi-light",
+  "name": "onilopic/jedi-light",
   "description": "Light version of Jedi",
   "type": "library",
   "license": "MIT",
   "authors": [
+    {
+      "name": "Harry Lukinykh",
+      "email": "onilopic@gmail.com"
+    },
     {
       "name": "Gavrilov Fedy",
       "email": "fedor.gavrilov.75@mail.ru"
@@ -11,8 +15,8 @@
   ],
 
   "support": {
-    "issues": "https://github.com/ProklUng/jedi-light/issues",
-    "source": "https://github.com/ProklUng/jedi-light"
+    "issues": "https://github.com/onilopic/jedi-light/issues",
+    "source": "https://github.com/onilopic/jedi-light"
   },
   "autoload": {
     "psr-4": {

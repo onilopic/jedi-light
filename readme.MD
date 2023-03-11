@@ -1,6 +1,7 @@
 # JediLight
 
 Облегченная версия [пакета](https://github.com/notamedia/console-jedi). Выпилено все, кроме работы с окружением.
+Форк [пакета](https://github.com/ProklUng/jedi-light). 
 
 ## Зачем?
 
@@ -15,13 +16,13 @@ composer.json:
  "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/proklung/jedi-light"
+      "url": "https://github.com/onilopic/jedi-light"
     }
   ]
 ```
 
 ```bash
-composer require proklung/jedi-light
+composer require onilopic/jedi-light
 ```
 
 После скопировать файл `jedi` в `php/bin` (если в иное место, то требуется корректировка файла `jedi`).
